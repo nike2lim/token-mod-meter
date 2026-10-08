@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Shows context fill, per-turn and session token usage, rate limits and cost above the prompt, with a /tokens command for details",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "SeungHwan"
+  }
+}
